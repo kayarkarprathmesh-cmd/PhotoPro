@@ -91,9 +91,10 @@ cloudinary
 Generate it automatically with:
 
 pip freeze > requirements.txt
+
 🖼️ How It Works
 Upload
-Open the app in your browser at http://localhost:5000
+Open the app in your browser at http://localhost:8086
 Drag and drop one or more photos onto the upload zone, or click to browse
 Each photo appears as a card with a thumbnail
 Crop (Optional but Recommended)
